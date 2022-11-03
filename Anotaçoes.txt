@@ -1,0 +1,13 @@
+Comandos básicos
+
+Windows
+cd
+dir
+mkdir
+del /rmdir
+
+Linux
+cd
+ls
+mkdir
+rm -rf
